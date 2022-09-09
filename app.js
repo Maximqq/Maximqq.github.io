@@ -5,7 +5,7 @@ tg.expand() // разширение на весь экран
 tg.MainButton.textColor = "#FFFFFF"; //изменение цвета текста 
 tg.MainButton.color = "#2cab37";
 
-let item = "" // переменная которая будет отправлятся в телеграмм
+let item = " " // переменная которая будет отправлятся в телеграмм
 
 
 let btn1 = document.getElementById("btn1");

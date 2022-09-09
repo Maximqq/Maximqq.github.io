@@ -3,7 +3,7 @@ let tg = window.Telegram.WebApp
 tg.expand() // разширение на весь экран 
 
 tg.MainButton.textColor = "#023059"; //изменение цвета текста 
-tg.MainButton.color = "05AFF2"; // изменение цвета кнопки
+tg.MainButton.color = "#05AFF2"; // изменение цвета кнопки
 
 let item = " " // переменная которая будет отправлятся в телеграмм
 

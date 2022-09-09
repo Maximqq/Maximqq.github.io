@@ -22,6 +22,7 @@ let btn6 = document.getElementById("btn6");
 btn1.addEventListener("click", function(){
     if (tg.MainButton.isVisible) {
         tg.MainButton.hide();
+        tg.MainButton.color = "#05AFF2";
     }
     else {
         tg.MainButton.show();

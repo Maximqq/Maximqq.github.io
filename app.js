@@ -101,7 +101,7 @@ let usercard = document.getElementById("usercard");
 
 let p = document.getElementById("p");
 
-// p.innerText = `${tg.initDataUnsafe.first_name}
-// ${tg.initDataUnsafe.last_name}`
+// p.innerText = `${tg.initDataUnsafe.user.first_name}
+// ${tg.initDataUnsafe.user.last_name}`
 
 // usercard.appendChild(p);
